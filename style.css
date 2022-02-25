@@ -1,0 +1,10 @@
+.novel {
+    color: blue;
+}
+.author {
+    padding-left:1em;
+    font-style: italic;
+}
+li {
+    vertical-align: center;
+}
